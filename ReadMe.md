@@ -1,5 +1,5 @@
 # 💫 About Me:
-🖥️ Estou cursando Sistemas da Informação no Instituto Federal de Goiás<br> 🖱️ Estou a procura de uma oportunidade de Estágio.<br>💻 Tenho como foco o desenvolvimento Full Stack!
+🖥️ Estou cursando Sistemas da Informação no Instituto Federal de Goiás<br> 🖱️ Estagiando como Desenvolvedor FullStack.<br>💻 Tenho como foco o desenvolvimento Full Stack!
 
 
 ## 🌐 Socials:
